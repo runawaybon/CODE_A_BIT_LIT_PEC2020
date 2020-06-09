@@ -8,3 +8,5 @@ of the dataset.
 
 It also contains a video, temp and an untitled notebook which were committed at 12 midnight, showing our progress 
 since the hackathon had started.
+
+You can check out our dashboard link for the project here:  https://dhaval302.github.io/team8_code_a_bit_lit/
